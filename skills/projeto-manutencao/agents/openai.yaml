@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manutenção de projetos"
+  short_description: "Organiza arquivos, revisa código e mantém o contexto"
+  default_prompt: "Use $projeto-manutencao para revisar a entrega, conferir a organização dos arquivos e atualizar o contexto deste projeto."
