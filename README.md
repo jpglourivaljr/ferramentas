@@ -15,6 +15,7 @@ skills/
 - `codigo-legivel-humano`: valida e ajusta código entregue para que seja legível e fácil de manter por humanos.
 - [projeto-git](skills/projeto-git/SKILL.md): baixa atualizações ou publica alterações em um ou mais repositórios, preservando o trabalho local.
 - [projeto-manutencao](skills/projeto-manutencao/SKILL.md): confere a organização dos arquivos, revisa o código da tarefa e mantém o contexto do projeto.
+- [pente-fino-visual-ia](skills/pente-fino-visual-ia/SKILL.md): tira da interface os sinais de design feito por IA (badges em excesso, rótulos em caixa-alta, cartões iguais, gradientes) e devolve uma aparência feita à mão.
 
 As skills `projeto-git` e `projeto-manutencao` foram generalizadas a partir das rotinas
 do SigehWeb. Elas descobrem caminhos, branches, stack e regras na documentação de cada
